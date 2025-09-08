@@ -18,9 +18,6 @@
 
 ---
 
-Here is a polished README file template for your **Personal Expense Tracker** Python project. You can copy and customize it for your GitHub repo.
-
-***
 
 # Personal Expense Tracker
 
