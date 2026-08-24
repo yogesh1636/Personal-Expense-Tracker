@@ -1,0 +1,5 @@
+# Personal Expense Tracker - Requirements
+# This project uses only Python Standard Library modules
+# No external dependencies required
+
+# Python Version: 3.7+
